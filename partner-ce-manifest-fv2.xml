@@ -1,16 +1,17 @@
 <apps version="2.0">
-  <app keywords="psoc6,memfault,demo">
-    <name>Memfault Demo</name>
-    <category>Wi-Fi</category>
-    <id>mtb-example-memfault</id>
-    <uri>https://github.com/memfault/mtb-example-memfault</uri>
-    <description><![CDATA[This code example demonstrates the integration of Memfault with PSoC™ 6 MCU with AIROC™ CYW43xxx Wi-Fi & Bluetooth® combo chips.
-    <br><br>For more details, see the <a href="https://github.com/memfault/mtb-example-memfault/blob/master/README.md">README on GitHub</a>.<br><br><a href="https://memfault.com/">Memfault</a> is the first cloud-based observability platform for connected device debugging, monitoring, and updating, which brings the efficiencies and innovation of software development to hardware processes.<br> > <a href="https://docs.memfault.com/">Get Started</a><br> > <a href="https://memfault.com/contact/">Talk to Sales</a>]]></description>
+  <app keywords="psoc6,partner,my,cool,demo">
+    <name>My Cool Demo</name>
+    <category>Partner</category>
+    <id>partner-mtb-example-my-cool-demo
+    </id>
+    <uri>https://github.com/partner/partner-mtb-example-my-cool-demo</uri>
+    <description><![CDATA[This code example demonstrates this XYZ application PSoC™ 6 MCU with AIROC™ CYW43xxx Wi-Fi & Bluetooth® combo chips.
+    <br><br>For more details, see the <a href="https://github.com/partner/partner-mtb-example-my-cool-demo/blob/master/README.md">README on GitHub</a>.<br><br><a href="https://partner-webpage.com/">Partner</a> is a company that does ABC and XYZ.<br> > <a href="https://docs.partner-doc-page.com/">Get Started</a><br> > <a href="https://partner-webpage.com/contact/">Talk to Sales</a>]]></description>
     <req_capabilities>psoc6</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.4.0" req_capabilities_per_version="bsp_gen3">
-        <num>Main</num>
-        <commit>main</commit>
+        <num>1.0.0 release</num>
+        <commit>release-v1.0.0</commit>
       </version>
     </versions>
   </app>
