@@ -2,8 +2,7 @@
   <app keywords="psoc6,partner,my,cool,demo">
     <name>My Cool Demo</name>
     <category>Partner</category>
-    <id>partner-mtb-example-my-cool-demo
-    </id>
+    <id>partner-mtb-example-my-cool-demo</id>
     <uri>https://github.com/partner/partner-mtb-example-my-cool-demo</uri>
     <description><![CDATA[This code example demonstrates this XYZ application PSoC™ 6 MCU with AIROC™ CYW43xxx Wi-Fi & Bluetooth® combo chips.
     <br><br>For more details, see the <a href="https://github.com/partner/partner-mtb-example-my-cool-demo/blob/master/README.md">README on GitHub</a>.<br><br><a href="https://partner-webpage.com/">Partner</a> is a company that does ABC and XYZ.<br> > <a href="https://docs.partner-doc-page.com/">Get Started</a><br> > <a href="https://partner-webpage.com/contact/">Talk to Sales</a>]]></description>
