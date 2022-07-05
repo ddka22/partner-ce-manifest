@@ -1,5 +1,5 @@
 <apps version="2.0">
-  <app keywords="psoc6,partner,my,cool,demo">
+  <app keywords="psoc6,partner,my,cool,demo" req_capabilities_v2="[cy8ckit-062-wifi-bt,cy8ckit_062s2_43012]">
     <name>My Cool Demo</name>
     <category>Partner</category>
     <id>partner-mtb-example-my-cool-demo</id>
