@@ -1,7 +1,7 @@
 <apps version="2.0">
   <app keywords="psoc6,partner,my,cool,demo" req_capabilities_v2="[cy8ckit-062-wifi-bt,cy8ckit_062s2_43012]">
     <name>My Cool Demo</name>
-    <category>Partner</category>
+    <category>Voice</category>
     <id>partner-mtb-example-my-cool-demo</id>
     <uri>https://github.com/partner/partner-mtb-example-my-cool-demo</uri>
     <description><![CDATA[This code example demonstrates this XYZ application PSoC™ 6 MCU with AIROC™ CYW43xxx Wi-Fi & Bluetooth® combo chips.
